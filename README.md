@@ -1,0 +1,2 @@
+# voicevox_resouce
+VOICEVOX用のリソースファイル置き場
