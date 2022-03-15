@@ -1,0 +1,25 @@
+{
+  "speakerName": "九州そら",
+  "speakerUuid": "481fb609-6446-4870-9f46-90c4dd623403",
+  "styles": [
+    {
+      "styleId": 16
+    },
+    {
+      "styleName": "あまあま",
+      "styleId": 15
+    },
+    {
+      "styleName": "ツンツン",
+      "styleId": 18
+    },
+    {
+      "styleName": "セクシー",
+      "styleId": 17
+    },
+    {
+      "styleName": "ささやき",
+      "styleId": 19
+    }
+  ]
+}
