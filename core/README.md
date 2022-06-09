@@ -83,6 +83,16 @@ https://kotoran8zunzun.wixsite.com/my-site/利用規約
 利用規約の詳細は以下をご確認ください。
 https://zunko.jp/con_ongen_kiyaku.html
 
+### もち子さん
+
+もち子さんの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:もち子(cv 明日葉よもぎ)」とクレジットを記載すれば、
+音声作品・音声素材・ゲーム作品を除いて商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://vtubermochio.wixsite.com/mochizora/利用規約
+
+
 ## 禁止事項
 
 - 逆コンパイル・リバースエンジニアリング及びこれらの方法の公開すること
