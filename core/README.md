@@ -92,7 +92,6 @@ https://zunko.jp/con_ongen_kiyaku.html
 利用規約の詳細は以下をご確認ください。
 https://vtubermochio.wixsite.com/mochizora/利用規約
 
-
 ## 禁止事項
 
 - 逆コンパイル・リバースエンジニアリング及びこれらの方法の公開すること
