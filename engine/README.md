@@ -109,4 +109,4 @@ https://frontier.creatia.cc/fanclubs/413/posts/4507
 
 ## その他
 
-ご利用いただいた際には、VOICEVOX を利用したことがわかるクレジット表記と、[ホームページ](https://voicevox.hiroshiba.jp/)へのリンクを記載いただけると幸いです。
+ご利用の際は VOICEVOX を利用したことがわかるクレジット表記が必要です。
