@@ -29,7 +29,7 @@ https://zunko.jp/con_ongen_kiyaku.html
 「VOICEVOX:春日部つむぎ」とクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。
-https://tsukushinyoki10.wixsite.com/ktsumugiofficial/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84
+https://tsumugi-official.studio.site/rule
 
 ### 波音リツ
 
@@ -70,7 +70,7 @@ https://virvoxproject.wixsite.com/official/voicevoxの利用規約
 「VOICEVOX:冥鳴ひまり」とクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。
-https://kotoran8zunzun.wixsite.com/my-site/利用規約
+https://meimeihimari.wixsite.com/himari/terms-of-use
 
 ### 九州そら
 
