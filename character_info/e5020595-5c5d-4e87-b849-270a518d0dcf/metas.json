@@ -3,7 +3,24 @@
   "speakerUuid": "e5020595-5c5d-4e87-b849-270a518d0dcf",
   "styles": [
     {
+      "styleName": "ふつう",
       "styleId": 12
+    },
+    {
+      "styleName": "わーい",
+      "styleId": 32
+    },
+    {
+      "styleName": "びくびく",
+      "styleId": 33
+    },
+    {
+      "styleName": "おこ",
+      "styleId": 34
+    },
+    {
+      "styleName": "びえーん",
+      "styleId": 35
     }
   ]
 }
