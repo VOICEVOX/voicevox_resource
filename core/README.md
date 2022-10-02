@@ -32,7 +32,7 @@ https://zunko.jp/con_ongen_kiyaku.html
 「VOICEVOX:春日部つむぎ」とクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。
-https://tsukushinyoki10.wixsite.com/ktsumugiofficial/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84
+https://tsumugi-official.studio.site/rule
 
 ### 波音リツ
 
@@ -73,7 +73,7 @@ https://virvoxproject.wixsite.com/official/voicevoxの利用規約
 「VOICEVOX:冥鳴ひまり」とクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。
-https://kotoran8zunzun.wixsite.com/my-site/利用規約
+https://meimeihimari.wixsite.com/himari/terms-of-use
 
 ### 九州そら
 
@@ -97,8 +97,34 @@ https://vtubermochio.wixsite.com/mochizora/利用規約
 剣崎雌雄の音声ライブラリを用いて生成した音声は、
 「VOICEVOX:剣崎雌雄」とクレジットを記載すれば、商用・非商用で利用可能です。
 
-利用規約の詳細は以下をご確認ください。  
+利用規約の詳細は以下をご確認ください。
 https://frontier.creatia.cc/fanclubs/413/posts/4507
+
+### WhiteCUL
+
+WhiteCULの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:WhiteCUL」とそれぞれクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://whitecul.zan-shin.net/guideline
+
+### 後鬼
+
+個人が後鬼の音声ライブラリを用いて生成した音声は、
+「VOICEVOX:後鬼」とクレジットを記載すれば、商用・非商用で利用可能です。
+ただし企業が携わる形で利用する場合は、「【鬼っ子ハンターついなちゃん】プロジェクト(https://ついなちゃん.com/mail/)」に対し事前確認を取る必要があります。
+
+利用規約の詳細は以下をご確認ください。
+https://ついなちゃん.com/voicevox_terms/
+
+### No.7
+
+個人がNo.7の音声ライブラリを用いて生成した音声は、
+「VOICEVOX:No.7」とクレジットを記載すれば、非商用（同人利用や配信による収入はOK）で利用可能です。
+その他商用利用の場合は、「No.7製作委員会(https://voiceseven.com/)」に対し事前確認を取る必要があります。
+
+利用規約の詳細は以下をご確認ください。
+https://voiceseven.com/
 
 ## 禁止事項
 
