@@ -106,7 +106,7 @@ WhiteCULの音声ライブラリを用いて生成した音声は、
 「VOICEVOX:WhiteCUL」とそれぞれクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。
-https://whitecul.zan-shin.net/guideline
+https://www.whitecul.com/guideline
 
 ### 後鬼
 
