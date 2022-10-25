@@ -16,6 +16,14 @@
     {
       "styleName": "セクシー",
       "styleId": 4
+    },
+    {
+      "styleName": "ささやき",
+      "styleId": 36
+    },
+    {
+      "styleName": "ヒソヒソ",
+      "styleId": 37
     }
   ]
 }

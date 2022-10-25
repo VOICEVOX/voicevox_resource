@@ -1,4 +1,4 @@
-これは「四国めたん」「ずんだもん」「春日部つむぎ」「雨晴はう」「波音リツ」「玄野武宏」「白上虎太郎」「青山龍星」「冥鳴ひまり」「九州そら」「もち子さん」の VOICEVOX コアライブラリです。
+これは VOICEVOX コアライブラリです。
 https://github.com/Hiroshiba/voicevox_core
 
 ## 許諾内容
@@ -106,7 +106,7 @@ WhiteCULの音声ライブラリを用いて生成した音声は、
 「VOICEVOX:WhiteCUL」とそれぞれクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。
-https://whitecul.zan-shin.net/guideline
+https://www.whitecul.com/guideline
 
 ### 後鬼
 
