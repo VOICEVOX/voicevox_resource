@@ -124,7 +124,39 @@ https://ついなちゃん.com/voicevox_terms/
 その他商用利用の場合は、「No.7製作委員会(https://voiceseven.com/)」に対し事前確認を取る必要があります。
 
 利用規約の詳細は以下をご確認ください。
-https://voiceseven.com/
+https://voiceseven.com/#j0200
+
+### ちび式じい
+
+ちび式じいの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:ちび式じい」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://docs.google.com/presentation/d/1AcD8zXkfzKFf2ertHwWRwJuQXjNnijMxhz7AJzEkaI4
+
+### 櫻歌ミコ
+
+櫻歌ミコの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:櫻歌ミコ」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://voicevox35miko.studio.site/rule
+
+### 小夜/SAYO
+
+小夜/SAYOの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:小夜/SAYO」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://316soramegu.wixsite.com/sayo-official/guideline
+
+### ナースロボ＿タイプＴ
+
+ナースロボ＿タイプＴの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:ナースロボ＿タイプＴ」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://www.krnr.top/rules
 
 ## 禁止事項
 
