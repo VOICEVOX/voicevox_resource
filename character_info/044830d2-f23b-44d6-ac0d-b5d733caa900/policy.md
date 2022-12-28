@@ -3,4 +3,4 @@
 その他商用利用の場合は、「[No.7製作委員会](https://voiceseven.com/)」に対し事前確認を取る必要があります。
 
 利用規約の詳細は以下をご確認ください。  
-https://voiceseven.com/
+https://voiceseven.com/#j0200

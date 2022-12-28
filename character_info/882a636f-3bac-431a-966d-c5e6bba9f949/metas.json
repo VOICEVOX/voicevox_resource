@@ -1,0 +1,21 @@
+{
+  "speakerName": "ナースロボ＿タイプＴ",
+  "speakerUuid": "882a636f-3bac-431a-966d-c5e6bba9f949",
+  "styles": [
+    {
+      "styleId": 47
+    },
+    {
+      "styleName": "楽々",
+      "styleId": 48
+    },
+    {
+      "styleName": "恐怖",
+      "styleId": 49
+    },
+    {
+      "styleName": "内緒話",
+      "styleId": 50
+    }
+  ]
+}

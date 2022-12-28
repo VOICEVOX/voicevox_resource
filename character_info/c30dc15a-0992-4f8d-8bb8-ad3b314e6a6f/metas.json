@@ -4,6 +4,18 @@
   "styles": [
     {
       "styleId": 11
+    },
+    {
+      "styleName": "喜び",
+      "styleId": 39
+    },
+    {
+      "styleName": "ツンギレ",
+      "styleId": 40
+    },
+    {
+      "styleName": "悲しみ",
+      "styleId": 41
     }
   ]
 }
