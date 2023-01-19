@@ -1,9 +1,3 @@
 {
-  "speakerName": "もち子さん",
-  "speakerUuid": "9f3ee141-26ad-437e-97bd-d22298d02ad2",
-  "styles": [
-    {
-      "styleId": 20
-    }
-  ]
+  "supported_features": { "permited_synthesis_morphing": "SELF_ONLY" }
 }

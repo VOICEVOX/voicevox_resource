@@ -1,17 +1,3 @@
 {
-  "speakerName": "No.7",
-  "speakerUuid": "044830d2-f23b-44d6-ac0d-b5d733caa900",
-  "styles": [
-    {
-      "styleId": 29
-    },
-    {
-      "styleName": "アナウンス",
-      "styleId": 30
-    },
-    {
-      "styleName": "読み聞かせ",
-      "styleId": 31
-    }
-  ]
+  "supported_features": { "permited_synthesis_morphing": "ALL" }
 }

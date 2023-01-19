@@ -1,9 +1,3 @@
 {
-  "speakerName": "ちび式じい",
-  "speakerUuid": "468b8e94-9da4-4f7a-8715-a22a48844f9e",
-  "styles": [
-    {
-      "styleId": 42
-    }
-  ]
+  "supported_features": { "permited_synthesis_morphing": "ALL" }
 }

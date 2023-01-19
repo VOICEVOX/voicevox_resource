@@ -1,17 +1,3 @@
 {
-  "speakerName": "櫻歌ミコ",
-  "speakerUuid": "0693554c-338e-4790-8982-b9c6d476dc69",
-  "styles": [
-    {
-      "styleId": 43
-    },
-    {
-      "styleName": "第二形態",
-      "styleId": 44
-    },
-    {
-      "styleName": "ロリ",
-      "styleId": 45
-    }
-  ]
+  "supported_features": { "permited_synthesis_morphing": "ALL" }
 }

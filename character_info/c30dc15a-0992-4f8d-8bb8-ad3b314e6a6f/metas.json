@@ -1,21 +1,3 @@
 {
-  "speakerName": "玄野武宏",
-  "speakerUuid": "c30dc15a-0992-4f8d-8bb8-ad3b314e6a6f",
-  "styles": [
-    {
-      "styleId": 11
-    },
-    {
-      "styleName": "喜び",
-      "styleId": 39
-    },
-    {
-      "styleName": "ツンギレ",
-      "styleId": 40
-    },
-    {
-      "styleName": "悲しみ",
-      "styleId": 41
-    }
-  ]
+  "supported_features": { "permited_synthesis_morphing": "ALL" }
 }

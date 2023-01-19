@@ -1,14 +1,3 @@
 {
-  "speakerName": "後鬼",
-  "speakerUuid": "0f56c2f2-644c-49c9-8989-94e11f7129d0",
-  "styles": [
-    {
-      "styleName": "人間ver.",
-      "styleId": 27
-    },
-    {
-      "styleName": "ぬいぐるみver.",
-      "styleId": 28
-    }
-  ]
+  "supported_features": { "permited_synthesis_morphing": "ALL" }
 }

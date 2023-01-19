@@ -1,9 +1,3 @@
 {
-  "speakerName": "小夜/SAYO",
-  "speakerUuid": "a8cc6d22-aad0-4ab8-bf1e-2f843924164a",
-  "styles": [
-    {
-      "styleId": 46
-    }
-  ]
+  "supported_features": { "permited_synthesis_morphing": "ALL" }
 }

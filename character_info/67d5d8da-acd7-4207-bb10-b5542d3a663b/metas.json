@@ -1,21 +1,3 @@
 {
-  "speakerName": "WhiteCUL",
-  "speakerUuid": "67d5d8da-acd7-4207-bb10-b5542d3a663b",
-  "styles": [
-    {
-      "styleId": 23
-    },
-    {
-      "styleName": "たのしい",
-      "styleId": 24
-    },
-    {
-      "styleName": "かなしい",
-      "styleId": 25
-    },
-    {
-      "styleName": "びえーん",
-      "styleId": 26
-    }
-  ]
+  "supported_features": {}
 }

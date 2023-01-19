@@ -1,9 +1,3 @@
 {
-  "speakerName": "冥鳴ひまり",
-  "speakerUuid": "8eaad775-3119-417e-8cf4-2a10bfd592c8",
-  "styles": [
-    {
-      "styleId": 14
-    }
-  ]
+  "supported_features": { "permited_synthesis_morphing": "ALL" }
 }
