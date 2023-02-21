@@ -99,7 +99,7 @@ https://frontier.creatia.cc/fanclubs/413/posts/4507
 
 ### WhiteCUL
 
-WhiteCULの音声ライブラリを用いて生成した音声は、
+WhiteCUL の音声ライブラリを用いて生成した音声は、
 「VOICEVOX:WhiteCUL」とそれぞれクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。
@@ -116,9 +116,9 @@ https://ついなちゃん.com/voicevox_terms/
 
 ### No.7
 
-個人がNo.7の音声ライブラリを用いて生成した音声は、
-「VOICEVOX:No.7」とクレジットを記載すれば、非商用（同人利用や配信による収入はOK）で利用可能です。
-その他商用利用の場合は、「No.7製作委員会(https://voiceseven.com/)」に対し事前確認を取る必要があります。
+個人が No.7 の音声ライブラリを用いて生成した音声は、
+「VOICEVOX:No.7」とクレジットを記載すれば、非商用（同人利用や配信による収入は OK）で利用可能です。
+その他商用利用の場合は、「No.7 製作委員会(https://voiceseven.com/)」に対し事前確認を取る必要があります。
 
 利用規約の詳細は以下をご確認ください。
 https://voiceseven.com/#j0200
@@ -141,7 +141,7 @@ https://voicevox35miko.studio.site/rule
 
 ### 小夜/SAYO
 
-小夜/SAYOの音声ライブラリを用いて生成した音声は、
+小夜/SAYO の音声ライブラリを用いて生成した音声は、
 「VOICEVOX:小夜/SAYO」とクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。
@@ -154,6 +154,30 @@ https://316soramegu.wixsite.com/sayo-official/guideline
 
 利用規約の詳細は以下をご確認ください。
 https://www.krnr.top/rules
+
+### †聖騎士 紅桜†
+
+†聖騎士 紅桜†の音声ライブラリを用いて生成した音声は、
+「VOICEVOX:†聖騎士 紅桜†」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://commons.nicovideo.jp/material/nc296132
+
+### 雀松朱司
+
+雀松朱司の音声ライブラリを用いて生成した音声は、
+「VOICEVOX:雀松朱司」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://virvoxproject.wixsite.com/official/voicevoxの利用規約
+
+### 麒ヶ島宗麟
+
+麒ヶ島宗麟の音声ライブラリを用いて生成した音声は、
+「VOICEVOX:麒ヶ島宗麟」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://virvoxproject.wixsite.com/official/voicevoxの利用規約
 
 ## 禁止事項
 
