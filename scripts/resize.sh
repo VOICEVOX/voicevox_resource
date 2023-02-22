@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 set -euxv
 
-if ! command -v convert file &> /dev/null; then
-  echo "install: file, imagemagick">&2
+if ! command -v convert file &>/dev/null; then
+  echo "install: file, imagemagick" >&2
   exit 1
 elif ! [ -d ./character_info ]; then
   echo "character_info is not found."
