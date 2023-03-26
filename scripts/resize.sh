@@ -9,9 +9,9 @@ elif ! [ -d ./character_info ]; then
   exit 1
 fi
 
-# *.png があったら .png_large にリネームしたあと 256x256 の .png を作成する
+# .png_large がなかったら、.png を .png_large にリネームしたあと 256x256 の .png を作成する
 for i in ./character_info/*/icons/*.png; do
-  file "$i" | grep -q '256 x 256' && continue
+  if [ -f "${i/%/_large}" ]; then continue; fi
   echo "---"
   mv "$i" "${i/%/_large}"
   convert -resize 256x256 "${i/%/_large}" "$i"
