@@ -179,6 +179,30 @@ https://virvoxproject.wixsite.com/official/voicevoxの利用規約
 利用規約の詳細は以下をご確認ください。
 https://virvoxproject.wixsite.com/official/voicevoxの利用規約
 
+### 春歌ナナ
+
+春歌ナナの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:春歌ナナ」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://nanahira.jp/haruka_nana/guideline.html
+
+### 猫使アル
+
+猫使アルの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:猫使アル」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://nekotukarb.wixsite.com/nekonohako/利用規約
+
+### 猫使ビィ
+
+猫使ビィの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:猫使ビィ」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。  
+https://nekotukarb.wixsite.com/nekonohako/利用規約
+
 ## 禁止事項
 
 - 逆コンパイル・リバースエンジニアリング及びこれらの方法の公開すること
