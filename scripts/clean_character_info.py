@@ -32,7 +32,6 @@ def verify_uuid4(uuid_string: str) -> bool:
     return True
 
 
-character_info_dir = Path("./character_info")
 if not character_info_dir.exists():
     raise Exception(f"エラー：{character_info_dir} が存在しません。")
 
