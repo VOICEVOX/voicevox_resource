@@ -3,5 +3,6 @@
   "name": "VOICEVOX Nemo Engine",
   "brand_name": "VOICEVOX",
   "url": "https://github.com/VOICEVOX/voicevox_nemo_engine",
+  "port": 50121,
   "default_sampling_rate": 24000
 }
