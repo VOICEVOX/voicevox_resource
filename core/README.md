@@ -1,5 +1,5 @@
 これは VOICEVOX コアライブラリです。
-https://github.com/Hiroshiba/voicevox_core
+https://github.com/VOICEVOX/voicevox_core
 
 ## 許諾内容
 
