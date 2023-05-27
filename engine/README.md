@@ -200,8 +200,16 @@ https://nekotukarb.wixsite.com/nekonohako/利用規約
 猫使ビィの音声ライブラリを用いて生成した音声は、
 「VOICEVOX:猫使ビィ」とクレジットを記載すれば、商用・非商用で利用可能です。
 
-利用規約の詳細は以下をご確認ください。  
+利用規約の詳細は以下をご確認ください。
 https://nekotukarb.wixsite.com/nekonohako/利用規約
+
+### 中国うさぎ
+
+中国うさぎの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:中国うさぎ」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。  
+https://zunko.jp/con_ongen_kiyaku.html
 
 ## 禁止事項
 
