@@ -211,8 +211,40 @@ https://nekotukarb.wixsite.com/nekonohako/利用規約
 中国うさぎの音声ライブラリを用いて生成した音声は、
 「VOICEVOX:中国うさぎ」とクレジットを記載すれば、商用・非商用で利用可能です。
 
-利用規約の詳細は以下をご確認ください。  
+利用規約の詳細は以下をご確認ください。
 https://zunko.jp/con_ongen_kiyaku.html
+
+### 栗田まろん
+
+栗田まろんの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:栗田まろん」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://aivoice.jp/character/maron/
+
+### あいえるたん
+
+あいえるたんの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:あいえるたん」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://www.infiniteloop.co.jp/special/iltan/terms/
+
+### 満別花丸
+
+満別花丸の音声ライブラリを用いて生成した音声は、
+「VOICEVOX:満別花丸」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://100hanamaru.wixsite.com/manbetsu-hanamaru/rule
+
+### 琴詠ニア
+
+琴詠ニアの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:琴詠ニア」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://commons.nicovideo.jp/works/nc315435
 
 ## 禁止事項
 
