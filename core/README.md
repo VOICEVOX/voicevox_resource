@@ -85,9 +85,10 @@ https://zunko.jp/con_ongen_kiyaku.html
 
 ### もち子さん
 
-もち子さんの音声ライブラリを用いて生成した音声は、
+個人がもち子さんの音声ライブラリを用いて生成した音声は、
 「VOICEVOX:もち子(cv 明日葉よもぎ)」とクレジットを記載すれば、
-音声作品・音声素材・ゲーム作品を除いて商用・非商用で利用可能です。
+音声作品・音声素材・ゲーム作品等を除いて商用・非商用で利用可能です。  
+ただし企業が携わる形で利用する場合は、「もちぞら模型店(https://vtubermochio.wixsite.com/mochizora/contact)」に対し事前確認を取る必要があります。
 
 利用規約の詳細は以下をご確認ください。
 https://vtubermochio.wixsite.com/mochizora/利用規約
@@ -211,8 +212,40 @@ https://nekotukarb.wixsite.com/nekonohako/利用規約
 中国うさぎの音声ライブラリを用いて生成した音声は、
 「VOICEVOX:中国うさぎ」とクレジットを記載すれば、商用・非商用で利用可能です。
 
-利用規約の詳細は以下をご確認ください。  
+利用規約の詳細は以下をご確認ください。
 https://zunko.jp/con_ongen_kiyaku.html
+
+### 栗田まろん
+
+栗田まろんの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:栗田まろん」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://aivoice.jp/character/maron/
+
+### あいえるたん
+
+あいえるたんの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:あいえるたん」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://www.infiniteloop.co.jp/special/iltan/terms/
+
+### 満別花丸
+
+満別花丸の音声ライブラリを用いて生成した音声は、
+「VOICEVOX:満別花丸」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://100hanamaru.wixsite.com/manbetsu-hanamaru/rule
+
+### 琴詠ニア
+
+琴詠ニアの音声ライブラリを用いて生成した音声は、
+「VOICEVOX:琴詠ニア」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://commons.nicovideo.jp/works/nc315435
 
 ## 禁止事項
 
