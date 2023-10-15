@@ -2,4 +2,4 @@
 「VOICEVOX:†聖騎士 紅桜†」とクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。
-https://commons.nicovideo.jp/material/nc296132
+https://commons.nicovideo.jp/works/nc296132
