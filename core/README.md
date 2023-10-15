@@ -40,7 +40,7 @@ https://tsumugi-official.studio.site/rule
 「VOICEVOX:波音リツ」とクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。
-http://canon-voice.com/kiyaku.html
+https://www.canon-voice.com/terms/
 
 ### 玄野武宏
 
@@ -116,7 +116,7 @@ https://www.whitecul.com/guideline
 ただし企業が携わる形で利用する場合は、「【鬼っ子ハンターついなちゃん】プロジェクト(https://ついなちゃん.com/mail/)」に対し事前確認を取る必要があります。
 
 利用規約の詳細は以下をご確認ください。
-https://ついなちゃん.com/voicevox_terms/
+https://ついなちゃん.com/voice_terms/
 
 ### No.7
 
@@ -165,7 +165,7 @@ https://www.krnr.top/rules
 「VOICEVOX:†聖騎士 紅桜†」とクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。
-https://commons.nicovideo.jp/material/nc296132
+https://commons.nicovideo.jp/works/nc296132
 
 ### 雀松朱司
 
