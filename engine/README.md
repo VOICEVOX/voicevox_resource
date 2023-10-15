@@ -113,7 +113,7 @@ https://www.whitecul.com/guideline
 ただし企業が携わる形で利用する場合は、「【鬼っ子ハンターついなちゃん】プロジェクト(https://ついなちゃん.com/mail/)」に対し事前確認を取る必要があります。
 
 利用規約の詳細は以下をご確認ください。
-https://ついなちゃん.com/voicevox_terms/
+https://ついなちゃん.com/voice_terms/
 
 ### No.7
 
