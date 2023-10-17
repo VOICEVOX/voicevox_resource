@@ -1,5 +1,3 @@
-<!-- markdownlint-disable no-bare-urls -->
-
 # VOICEVOX エンジン利用規約
 
 ## 許諾内容
