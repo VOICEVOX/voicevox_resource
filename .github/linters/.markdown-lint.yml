@@ -39,3 +39,4 @@ blank_lines: false # Error on blank lines
 # テキストファイルとして扱うようなmarkdownファイルが多く、それらに合わせてルールを緩くする
 MD034: false # no-bare-urls
 MD041: false # first-line-h1
+MD025: false # single-h1
