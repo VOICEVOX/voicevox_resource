@@ -3,6 +3,7 @@ name: VOICEVOX Shared Workflow
 on:
   push:
   pull_request:
+  workflow_dispatch:
 
 jobs:
   voicevox-shared-workflow:
