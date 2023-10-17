@@ -1,0 +1,19 @@
+name: VOICEVOX Shared Workflow
+
+on:
+  push:
+  pull_request:
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  voicevox-shared-workflow:
+    uses: VOICEVOX/.github/.github/workflows/shared.yml@main
+
+    # Super Linter に必要
+    permissions:
+      contents: read
+      packages: read
+      statuses: write
