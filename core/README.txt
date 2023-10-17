@@ -28,7 +28,7 @@ https://github.com/VOICEVOX/voicevox_core
 
 ---
 
-# 音声ライブラリの利用規約
+# 音声ライブラリ利用規約
 
 ## 四国めたん
 
