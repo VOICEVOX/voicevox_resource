@@ -1,6 +1,9 @@
-<!-- markdownlint-disable no-bare-urls -->
+これは VOICEVOX コアライブラリです。
+https://github.com/VOICEVOX/voicevox_core
 
-# VOICEVOX エンジン利用規約
+---
+
+# VOICEVOX コアライブラリ利用規約
 
 ## 許諾内容
 
