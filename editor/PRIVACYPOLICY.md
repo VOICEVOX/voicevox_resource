@@ -7,7 +7,7 @@ Google アナリティクスはデータの収集のために Cookie を使用�
 
 データの収集機能は設定オプションで無効にすることで収集を拒否することが出来ます。
 
-Googleアナリティクスのデータ収集、処理の仕組みについては、
+Google アナリティクスのデータ収集、処理の仕組みについては、
 [GOOGLE のサービスを使用するサイトやアプリから収集した情報の GOOGLE による使用](https://policies.google.com/technologies/partner-sites?hl=ja)をご覧ください。
 
 この規約に関しての詳細は
