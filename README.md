@@ -18,6 +18,8 @@ python scripts/gather_pitch_range.py
 
 を実行して、作り直すことが可能です。
 
+使用するテキストデータは芥川龍之介の「羅生門」（[パブリックドメイン](https://ja.wikisource.org/wiki/%E7%BE%85%E7%94%9F%E9%96%80)）。
+
 ## 画像ファイル
 
 アイコン画像は `scripts/resize.sh` を使って 256x256 のサイズにします。  
