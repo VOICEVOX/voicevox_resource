@@ -45,11 +45,16 @@ def main():
                 # for the whisper styles
                 low = 0.0
                 high = 0.0
+            # calculate bound
             low = mean - 3 * std
             high = mean + 3 * std
+            # round to 2 decimals
             low = math.floor(low * 100) / 100
             high = math.ceil(high * 100) / 100
-            ranges[style_id] = (low, high)
+            # range safety
+            low = max(0.0, low)
+            high = min(6.5, high)
+            ranges[style_id] = {"low": low, "high": high}
             print(
                 f"style: {style_id},\t mean: {round(mean, 2)},\t std: {round(std, 2)},\t high: {high},\t low: {low}"
             )
@@ -68,7 +73,7 @@ def analyze_pitch(pitches: dict[float, int]) -> tuple[float, float]:
             continue
         count += v
         s += k * v
-    if count < 100:
+    if count < 10:
         # too little voiced phonemes
         return (0.0, 0.0)
     mean = s / count
