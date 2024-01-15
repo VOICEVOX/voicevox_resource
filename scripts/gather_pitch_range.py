@@ -69,7 +69,7 @@ def analyze_pitch(pitches: dict[float, int]) -> tuple[float, float]:
     count = 0
     s = 0.0
     for k, v in pitches.items():
-        if k < 0.1:
+        if k < 1.0:
             continue
         count += v
         s += k * v
@@ -80,7 +80,7 @@ def analyze_pitch(pitches: dict[float, int]) -> tuple[float, float]:
 
     var_s = 0.0
     for k, v in pitches.items():
-        if k < 0.1:
+        if k < 1.0:
             continue
         var_s += (k - mean) ** 2 * v
     std = math.sqrt(var_s / count)
@@ -103,7 +103,8 @@ def pitch_range(speaker_id: int, texts: list[str], conn: http.client.HTTPConnect
                         pitches[pitch] = 1
                     else:
                         pitches[pitch] += 1
-        except Exception:
+        except Exception as e:
+            print(f"Exception at text {text}, error: {str(e)}")
             continue
     return pitches
 
