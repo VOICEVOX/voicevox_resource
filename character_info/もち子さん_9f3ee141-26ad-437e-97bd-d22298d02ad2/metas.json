@@ -1,15 +1,15 @@
 {
-    "supported_features": {
-        "permitted_synthesis_morphing": "SELF_ONLY"
+  "supported_features": {
+    "permitted_synthesis_morphing": "SELF_ONLY"
+  },
+  "range": {
+    "20": {
+      "low": 5.29,
+      "high": 6.1
     },
-    "range": {
-        "20": {
-            "low": 5.29,
-            "high": 6.1
-        },
-        "66": {
-            "low": 5.16,
-            "high": 5.93
-        }
+    "66": {
+      "low": 5.16,
+      "high": 5.93
     }
+  }
 }

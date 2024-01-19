@@ -1,9 +1,9 @@
 {
-    "supported_features": {},
-    "range": {
-        "8": {
-            "low": 5.07,
-            "high": 6.5
-        }
+  "supported_features": {},
+  "range": {
+    "8": {
+      "low": 5.07,
+      "high": 6.5
     }
+  }
 }

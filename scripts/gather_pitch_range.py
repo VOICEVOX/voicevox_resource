@@ -61,7 +61,7 @@ def main():
         meta["range"] = ranges
 
         f = open(meta_path, "w")
-        f.write(json.dumps(meta, indent=4))  # ident=4 for pretty print
+        f.write(json.dumps(meta, indent=2))  # pretty print
         f.close()
 
 

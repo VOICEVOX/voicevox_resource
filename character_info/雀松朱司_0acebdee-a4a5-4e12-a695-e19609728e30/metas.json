@@ -1,11 +1,11 @@
 {
-    "supported_features": {
-        "permitted_synthesis_morphing": "ALL"
-    },
-    "range": {
-        "52": {
-            "low": 4.23,
-            "high": 5.18
-        }
+  "supported_features": {
+    "permitted_synthesis_morphing": "ALL"
+  },
+  "range": {
+    "52": {
+      "low": 4.23,
+      "high": 5.18
     }
+  }
 }
