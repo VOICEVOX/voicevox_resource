@@ -1,9 +1,9 @@
-import os
-import math
-import json
 import http.client
-from urllib.parse import urlencode
+import json
+import math
+import os
 from os.path import join, split
+from urllib.parse import urlencode
 
 
 def main():
@@ -34,7 +34,7 @@ def main():
         conn.request("GET", f"/speaker_info?speaker_uuid={uuid}")
         data = conn.getresponse().read().decode("utf-8")
 
-        ranges = {}
+        ranges = []
         speaker_info = json.loads(data)
         # iterate through the styles, get their range on the full text of `rashoumon`
         for style in speaker_info["style_infos"]:
@@ -54,14 +54,14 @@ def main():
             # range safety
             low = max(0.0, low)
             high = min(6.5, high)
-            ranges[style_id] = {"low": low, "high": high}
+            ranges.append({"style_id": style_id, "low": low, "high": high})
             print(
                 f"style: {style_id},\t mean: {round(mean, 2)},\t std: {round(std, 2)},\t high: {high},\t low: {low}"
             )
         meta["range"] = ranges
 
         f = open(meta_path, "w")
-        f.write(json.dumps(meta, indent=2))  # pretty print
+        f.write(json.dumps(meta, indent=4))  # pretty print
         f.close()
 
 
