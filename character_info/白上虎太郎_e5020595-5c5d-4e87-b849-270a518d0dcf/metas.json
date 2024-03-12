@@ -1,3 +1,32 @@
 {
-  "supported_features": { "permitted_synthesis_morphing": "ALL" }
+    "supported_features": {
+        "permitted_synthesis_morphing": "ALL"
+    },
+    "range": [
+        {
+            "style_id": 12,
+            "low": 4.54,
+            "high": 5.63
+        },
+        {
+            "style_id": 32,
+            "low": 5.05,
+            "high": 5.81
+        },
+        {
+            "style_id": 33,
+            "low": 5.13,
+            "high": 5.9
+        },
+        {
+            "style_id": 34,
+            "low": 4.83,
+            "high": 5.9
+        },
+        {
+            "style_id": 35,
+            "low": 5.27,
+            "high": 6.25
+        }
+    ]
 }
