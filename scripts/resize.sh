@@ -14,7 +14,7 @@ for i in ./character_info/*/icons/*.png; do
   if [ -f "${i/%/_large}" ]; then continue; fi
   echo "---"
   mv "$i" "${i/%/_large}"
-  convert -resize 256x256 "${i/%/_large}" "$i"
+  magick convert -resize 256x256 "${i/%/_large}" "$i"
   file "${i%/*}"/*
 done
 echo "--->done!"
