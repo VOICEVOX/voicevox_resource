@@ -11,7 +11,7 @@ fi
 
 # .png_large がなかったら、.png を .png_large にリネームしたあと 256x256 の .png を作成する
 # .png が 256x256 だった場合は何もしない
-for i in ./character_info/*/icon.png ./character_info/*/icons/*.png; do
+for i in ./character_info/*/icons/*.png; do
   if [ -f "${i/%/_large}" ]; then continue; fi
   if [ "$(magick identify -format "%w %h" "$i")" = "256 256" ]; then continue; fi
   echo "---"
