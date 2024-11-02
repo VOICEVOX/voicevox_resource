@@ -1,3 +1,4 @@
 ## 謝辞
 
-[@ninhydrin](https://twitter.com/ninhydrin_)
+[@ninhydrin](https://x.com/ninhydrin_)
+
