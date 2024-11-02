@@ -1,3 +1,4 @@
 ## 謝辞
 
-[@ninhydrin_](https://x.com/ninhydrin_)
+[@ninhydrin](https://x.com/ninhydrin_)
+
