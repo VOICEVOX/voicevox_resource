@@ -3,7 +3,7 @@
     "name": "VOICEVOX Engine",
     "brand_name": "VOICEVOX",
     "url": "https://github.com/VOICEVOX/voicevox_engine",
-    "default_sampling_rate": 24000
+    "default_sampling_rate": 24000,
     "supported_features": {
         "manage_library": {
             "type": "bool",
