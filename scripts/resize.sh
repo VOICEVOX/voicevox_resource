@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euxv
 
-if ! command -v convert file &>/dev/null; then
+if ! command -v magick file &>/dev/null; then
   echo "install: file, imagemagick" >&2
   exit 1
 elif ! [ -d ./character_info ]; then
