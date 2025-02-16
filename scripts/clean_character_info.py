@@ -46,7 +46,9 @@ for dir_path in output_dir.glob("*"):
     dir_name = dir_path.name
     if "_" in dir_name:
         new_dir_name = dir_name.split("_")[-1]
-        assert verify_uuid4(new_dir_name), f"エラー：{new_dir_name} がUUID4形式ではありません。"
+        assert verify_uuid4(
+            new_dir_name
+        ), f"エラー：{new_dir_name} がUUID4形式ではありません。"
         dir_path.rename(output_dir / new_dir_name)
 
 # *.png_largeファイルを消去する
