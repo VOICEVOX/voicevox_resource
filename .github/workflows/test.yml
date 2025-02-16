@@ -13,7 +13,7 @@ jobs:
       - name: typos
         uses: crate-ci/typos@v1.12.12
 
-  voicevox-shared-workflow:
+  voicevox_shared_workflow:
     uses: VOICEVOX/.github/.github/workflows/shared.yml@main
 
     # Super Linter に必要
