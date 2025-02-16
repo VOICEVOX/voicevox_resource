@@ -22,6 +22,11 @@ jobs:
       packages: read
       statuses: write
 
+    # blackと衝突するのでflake8を無効化
+    with:
+      super_linter_env_vars: |
+        VALIDATE_PYTHON_FLAKE8=false
+
   test_terms:
     runs-on: ubuntu-latest
     steps:
