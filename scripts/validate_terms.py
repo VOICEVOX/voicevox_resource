@@ -1,9 +1,9 @@
 # 各種利用規約の内容が整合しているかをチェックするスクリプト
 
-import re
-from pathlib import Path
 import difflib
+import re
 from dataclasses import dataclass
+from pathlib import Path
 from typing import Literal
 
 
