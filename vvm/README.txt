@@ -1,8 +1,3 @@
-これは VOICEVOX コアライブラリです。
-https://github.com/VOICEVOX/voicevox_core
-
----
-
 # VOICEVOX コアライブラリ利用規約
 
 ## 許諾内容
