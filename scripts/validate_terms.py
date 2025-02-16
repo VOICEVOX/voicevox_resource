@@ -10,25 +10,25 @@ from typing import Literal
 def main():
     terms = (
         Term(
-            name="engine-text",
+            name="engine_text",
             title="VOICEVOX エンジン利用規約",
             path=Path("engine/README.md"),
             type="text",
         ),
         CoreTerm(
-            name="core-text",
+            name="core_text",
             title="VOICEVOX コアライブラリ利用規約",
             path=Path("core/README.md"),
             type="text",
         ),
         Term(
-            name="vvm-markdown",
+            name="vvm_markdown",
             title="VOICEVOX 音声モデル 利用規約",
             path=Path("vvm/README.md"),
             type="markdown",
         ),
         Term(
-            name="vvm-text",
+            name="vvm_text",
             title="VOICEVOX 音声モデル 利用規約",
             path=Path("vvm/README.txt"),
             type="text",
