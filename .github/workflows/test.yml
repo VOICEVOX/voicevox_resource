@@ -13,7 +13,7 @@ jobs:
       - name: typos
         uses: crate-ci/typos@v1.12.12
 
-  voicevox-shared-workflow:
+  voicevox_shared_workflow:
     uses: VOICEVOX/.github/.github/workflows/shared.yml@main
 
     # Super Linter に必要
@@ -21,3 +21,18 @@ jobs:
       contents: read
       packages: read
       statuses: write
+
+  test_terms:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run terms validation script
+        run: |
+          python scripts/validate_terms.py
