@@ -1,0 +1,119 @@
+# 各種利用規約の内容が整合しているかをチェックするスクリプト
+
+import re
+from pathlib import Path
+import difflib
+from dataclasses import dataclass
+from typing import Literal
+
+
+@dataclass
+class Term:
+    name: str
+    title: str
+    path: Path
+    type: Literal["markdown", "text"]
+
+    def __repr__(self):
+        return f"{self.name}"
+
+    def check_file_exist(self):
+        return self.path.is_file() and self.path.exists()
+
+    @property
+    def normalized_content(self) -> str:
+        with open(self.path, encoding="utf-8") as f:
+            content = f.read()
+
+        # markdown特有の記法を削除
+        if self.type == "markdown":
+            content = content.replace("  \n", "\n")  # "  \n"をただの改行へ
+            content = re.sub(r"\[|\]", "", content)  # リンクの[]を除去
+
+        # text用の記法を削除
+        elif self.type == "text":
+            content = re.sub(r"、\n", "、", content)  # 読みやすくするための改行を削除
+
+        # タイトル行を置き換え
+        content = re.sub(
+            rf"^# {self.title}", f"# 利用規約タイトル", content, flags=re.MULTILINE
+        )
+
+        return content
+
+
+class CoreTerm(Term):
+    @property
+    def normalized_content(self) -> str:
+        content = super().normalized_content
+
+        trim_string = (
+            "これは VOICEVOX コアライブラリです。\n"
+            "https://github.com/VOICEVOX/voicevox_core\n\n"
+            "---\n\n"
+        )
+        if trim_string in content:
+            content = content.split(trim_string, 1)[1]
+
+        return content
+
+
+def main():
+    terms = [
+        Term(
+            name="engine-text",
+            title="VOICEVOX エンジン利用規約",
+            path=Path("engine/README.md"),
+            type="text",
+        ),
+        CoreTerm(
+            name="core-text",
+            title="VOICEVOX コアライブラリ利用規約",
+            path=Path("core/README.md"),
+            type="text",
+        ),
+        Term(
+            name="vvm-markdown",
+            title="VOICEVOX 音声モデル 利用規約",
+            path=Path("vvm/README.md"),
+            type="markdown",
+        ),
+        Term(
+            name="vvm-text",
+            title="VOICEVOX 音声モデル 利用規約",
+            path=Path("vvm/README.txt"),
+            type="text",
+        ),
+    ]
+    base_term = terms[0]
+    target_terms = terms[1:]
+
+    print("ファイルの存在確認")
+    for term in terms:
+        assert term.check_file_exist(), f"{term.name} が存在しません"
+
+    base_content = base_term.normalized_content
+    for target_term in target_terms:
+        print(f"比較: {base_term} vs {target_term}")
+        target_content = target_term.normalized_content
+        compare_content(base_content, target_content)
+
+
+def compare_content(base_content: str, target_content: str):
+    diff = difflib.unified_diff(
+        base_content.splitlines(),
+        target_content.splitlines(),
+    )
+    diffs = list(diff)
+
+    if len(diffs) == 0:
+        return
+
+    print("利用規約の内容が異なります：")
+    diff_output = "\n".join(diffs)
+    print(diff_output)
+    exit(1)
+
+
+if __name__ == "__main__":
+    main()
