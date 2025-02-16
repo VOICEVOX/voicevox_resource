@@ -50,7 +50,7 @@ def main():
     for target_term in target_terms:
         print(f"{base_term} vs {target_term}")
         target_content = target_term.normalized_content
-        compare_content(base_content, target_content)
+        validate_content_difference(base_content, target_content)
 
 
 @dataclass
@@ -118,7 +118,7 @@ class CoreTerm(Term):
         return content
 
 
-def compare_content(base_content: str, target_content: str):
+def validate_content_difference(base_content: str, target_content: str):
     diff = difflib.unified_diff(
         base_content.splitlines(),
         target_content.splitlines(),
@@ -131,7 +131,8 @@ def compare_content(base_content: str, target_content: str):
     print("利用規約の内容が異なります：")
     diff_output = "\n".join(diffs)
     print(diff_output)
-    exit(1)
+
+    raise Exception("利用規約の内容が異なります")
 
 
 if __name__ == "__main__":
