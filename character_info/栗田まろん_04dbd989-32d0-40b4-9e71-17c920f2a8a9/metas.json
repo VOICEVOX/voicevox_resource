@@ -1,5 +1,12 @@
 {
-  "supported_features": {
-    "permitted_synthesis_morphing": "ALL"
-  }
+    "supported_features": {
+        "permitted_synthesis_morphing": "ALL"
+    },
+    "range": [
+        {
+            "style_id": 67,
+            "low": 4.63,
+            "high": 5.56
+        }
+    ]
 }
