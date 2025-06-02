@@ -292,3 +292,19 @@ https://zonko.zone-energy.jp/guideline
 
 利用規約の詳細は以下をご確認ください。
 https://zunko.jp/con_ongen_kiyaku.html
+
+## 離途
+
+離途の音声ライブラリを用いて生成した音声は、
+「VOICEVOX:離途」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://litmus9.com/#/voicebank#rules
+
+## 黒沢冴白
+
+黒沢冴白の音声ライブラリを用いて生成した音声は、
+「VOICEVOX:黒沢冴白」とクレジットを記載すれば、商用・非商用で利用可能です。
+
+利用規約の詳細は以下をご確認ください。
+https://www.virvoxproject.com/voicevox%E3%81%AE%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84
