@@ -21,6 +21,12 @@ VOICEVOX 用のリソースファイル置き場
 typos
 ```
 
+## 利用規約のチェック
+
+```bash
+python scripts/validate_terms.py
+```
+
 ## ライセンス
 
 ### scripts ディレクトリのファイル
