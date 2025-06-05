@@ -58,14 +58,14 @@ http://canon-voice.com/kiyaku.html
 玄野武宏の音声ライブラリを用いて生成した音声は、「VOICEVOX:玄野武宏」とクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。  
-https://virvoxproject.wixsite.com/official/voicevoxの利用規約
+https://www.virvoxproject.com/voicevoxの利用規約
 
 ## 白上虎太郎
 
 白上虎太郎の音声ライブラリを用いて生成した音声は、「VOICEVOX:白上虎太郎」とクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。  
-https://virvoxproject.wixsite.com/official/voicevoxの利用規約
+https://www.virvoxproject.com/voicevoxの利用規約
 
 ## 青山龍星
 
@@ -73,7 +73,7 @@ https://virvoxproject.wixsite.com/official/voicevoxの利用規約
 ただし企業が携わる形で利用する場合は、「[ななはぴ](https://v.seventhh.com/contact/)」に対し事前確認を取る必要があります。
 
 利用規約の詳細は以下をご確認ください。  
-https://virvoxproject.wixsite.com/official/voicevoxの利用規約
+https://www.virvoxproject.com/voicevoxの利用規約
 
 ## 冥鳴ひまり
 
@@ -167,14 +167,14 @@ https://commons.nicovideo.jp/material/nc296132
 雀松朱司の音声ライブラリを用いて生成した音声は、「VOICEVOX:雀松朱司」とクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。  
-https://virvoxproject.wixsite.com/official/voicevoxの利用規約
+https://www.virvoxproject.com/voicevoxの利用規約
 
 ## 麒ヶ島宗麟
 
 麒ヶ島宗麟の音声ライブラリを用いて生成した音声は、「VOICEVOX:麒ヶ島宗麟」とクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。  
-https://virvoxproject.wixsite.com/official/voicevoxの利用規約
+https://www.virvoxproject.com/voicevoxの利用規約
 
 ## 春歌ナナ
 
@@ -267,4 +267,4 @@ https://litmus9.com/#/voicebank#rules
 黒沢冴白の音声ライブラリを用いて生成した音声は、「VOICEVOX:黒沢冴白」とクレジットを記載すれば、商用・非商用で利用可能です。
 
 利用規約の詳細は以下をご確認ください。  
-https://www.virvoxproject.com/voicevox%E3%81%AE%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84
+https://www.virvoxproject.com/voicevoxの利用規約
