@@ -3,4 +3,4 @@
 ただし企業が携わる形で利用する場合は、「ななはぴ(https://v.seventhh.com/contact/)」に対し事前確認を取る必要があります。
 
 利用規約の詳細は以下をご確認ください。  
-https://virvoxproject.wixsite.com/official/voicevoxの利用規約
+https://www.virvoxproject.com/voicevoxの利用規約
