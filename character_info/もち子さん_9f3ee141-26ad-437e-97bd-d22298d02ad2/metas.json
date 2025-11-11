@@ -1,3 +1,37 @@
 {
-  "supported_features": { "permitted_synthesis_morphing": "SELF_ONLY" }
+    "supported_features": {
+        "permitted_synthesis_morphing": "SELF_ONLY"
+    },
+    "range": [
+        {
+            "style_id": 20,
+            "low": 5.26,
+            "high": 6.03
+        },
+        {
+            "style_id": 66,
+            "low": 5.11,
+            "high": 5.91
+        },
+        {
+            "style_id": 77,
+            "low": 5.55,
+            "high": 6.05
+        },
+        {
+            "style_id": 78,
+            "low": 5.36,
+            "high": 6.17
+        },
+        {
+            "style_id": 79,
+            "low": 5.5,
+            "high": 6.1
+        },
+        {
+            "style_id": 80,
+            "low": 5.22,
+            "high": 5.98
+        }
+    ]
 }

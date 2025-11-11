@@ -1,3 +1,15 @@
 {
-  "supported_features": {}
+    "supported_features": {},
+    "range": [
+        {
+            "style_id": 9,
+            "low": 4.85,
+            "high": 6.09
+        },
+        {
+            "style_id": 65,
+            "low": 4.93,
+            "high": 6.36
+        }
+    ]
 }
