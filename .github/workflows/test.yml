@@ -9,9 +9,19 @@ jobs:
   typos:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
       - name: typos
-        uses: crate-ci/typos@v1.12.12
+        uses: crate-ci/typos@47912c390ab44028f45fe2abc0bb5c6d97392bf8 # v1.12.12
+
+  pinact:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+      - name: pinact
+        uses: suzuki-shunsuke/pinact-action@28aeb220eb3252ad0d4422dd5d9368e925acbd8d # v1.3.0
+        with:
+          skip_push: "true"
+          min_age: "7"
 
   voicevox_shared_workflow:
     uses: VOICEVOX/.github/.github/workflows/shared.yml@main
@@ -42,10 +52,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
         with:
           python-version: "3.x"
 
