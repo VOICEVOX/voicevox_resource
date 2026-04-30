@@ -1,0 +1,20 @@
+{
+  "uuid": "208cf94d-43d2-4cf5-abc0-9783cac36d29",
+  "name": "VOICEVOX Nemo Engine",
+  "brand_name": "VOICEVOX",
+  "url": "https://github.com/VOICEVOX/voicevox_nemo_engine",
+  "port": 50121,
+  "default_sampling_rate": 24000,
+  "supported_features": {
+    "sing": {
+      "type": "bool",
+      "value": false,
+      "name": "歌唱音声合成"
+    },
+    "manage_library": {
+      "type": "bool",
+      "value": false,
+      "name": "音声ライブラリのインストール・アンインストール"
+    }
+  }
+}
